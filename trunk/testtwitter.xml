@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="hello world example" /> 
+  <ModulePrefs title="twitter list" /> 
   <Content type="html">
      <![CDATA[ 
        <a class="twitter-timeline" href="https://twitter.com/SENER_JAPAN" data-widget-id="421126620833804288">@SENER_JAPAN からのツイート</a>
