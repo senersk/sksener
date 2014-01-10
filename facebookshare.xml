@@ -11,6 +11,7 @@
   js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-share-button" data-href="https://sites.google.com/a/sener.jp/senerjapan/" data-type="button_count"></div>
      ]]>
   </Content> 
 </Module>
