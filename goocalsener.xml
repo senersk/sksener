@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="goocalsener" /> 
+  <Content type="html">
+     <![CDATA[ 
+       <iframe src="https://www.google.com/calendar/embed?title=%E3%82%BB%E3%83%8D%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=sener.jp_l1fmnhphn8bs32prjnlvvru6n0%40group.calendar.google.com&amp;color=%230F4B38&amp;src=sener.jp_1olhep0eqev7i1183pq8jpi35g%40group.calendar.google.com&amp;color=%23125A12&amp;src=sener.jp_0chq721dj6usrsd53pg5vk44os%40group.calendar.google.com&amp;color=%230F4B38&amp;src=shigeru.kasai%40sener.jp&amp;color=%23125A12&amp;src=yoshiko.fukase%40sener.jp&amp;color=%23333333&amp;src=yasushi.iwao%40sener.jp&amp;color=%23333333&amp;src=sener.jp_pn0sal6s8hjg996510t6pf4g3o%40group.calendar.google.com&amp;color=%23125A12&amp;src=sener.jp_d2qc2a5e4g1banpiajsgpmgr7o%40group.calendar.google.com&amp;color=%23B1440E&amp;src=ja.japanese%23holiday%40group.v.calendar.google.com&amp;color=%23711616&amp;ctz=Asia%2FTokyo" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+     ]]>
+  </Content> 
+</Module>
